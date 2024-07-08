@@ -36,7 +36,7 @@ I am a <strong>C++ Programmer</strong>, a <strong>Fullstack Javascript Developer
 
 <br/>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshamakkar&hide=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshamakkar&hide=Dockerfile)
 
    <h2 align="center">📫 Reach out to me on</h2>
      
