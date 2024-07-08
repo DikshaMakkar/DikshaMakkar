@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp> 
-I am a <strong>C++ Programmer</strong>, a <strong>Fullstack Javascript Developer</strong> and a <strong>tech enthusiast!</strong> 
+    I'm a <strong>Fullstack Developer</strong> with expertise in <strong>Java</strong>, <strong>React</strong> and a tech enthusiast who enjoys solving <strong>DSA</strong> problems with <strong>C++</strong>.
   </samp><br><br>
   <samp>
    Looking for Open-Source Projects to collaborate on.  Apart from programming, I love to paint 🖌️🎨.
