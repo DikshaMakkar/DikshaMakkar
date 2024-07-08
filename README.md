@@ -15,7 +15,7 @@
   <p align="left" >
    </p>
  
-<!--     <img src="https://komarev.com/ghpvc/?username=DikshaMakkar" alt="udit-takkar" />  -->         
+<!--     <img src="https://komarev.com/ghpvc/?username=DikshaMakkar" alt="diksha-makkar" />  -->         
 
 
 <h2 align="center"> 💻 Technology Stack</h2>
