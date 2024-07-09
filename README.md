@@ -36,9 +36,9 @@
 
 <br/>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshamakkar&hide=Dockerfile)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshamakkar&hide=Dockerfile) -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshamakkar&layout=compact) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshamakkar&layout=compact&hide=Dockerfile) 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshamakkar&layout=pie)](https://github.com/dikshamakkar/github-readme-stats) -->
 
